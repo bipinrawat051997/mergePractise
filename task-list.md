@@ -1,4 +1,0 @@
-Eat
-Read
-Sleep
-Gym
